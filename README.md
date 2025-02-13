@@ -30,6 +30,8 @@ Exluded from this analysis are managed, prescribed burns, which are set intentio
 ## Data
 National Interagency Fire Occurrence Sixth Edition 1992-2020 (Feature Layer), https://catalog.data.gov/dataset/national-interagency-fire-occurrence-sixth-edition-1992-2020-feature-layer
 
+NWCG Glossary of Wildland Fire, PMS 205, https://www.nwcg.gov/publications/pms205/nwcg-glossary-of-wildland-fire-pms-205
+
 
 [^1]: The Latest Data Confirms: Forest Fires Are Getting Worse, World Resources Institute, August 13, 2024, https://www.wri.org/insights/global-trends-forest-fires
 [^2]: Indicators of Forest Extent, April 4, 2024, https://research.wri.org/gfr/forest-extent-indicators/forest-loss
