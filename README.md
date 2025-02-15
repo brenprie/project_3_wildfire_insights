@@ -26,8 +26,8 @@ Given the rising costs of wildfire losses and the increasing burden of wildfire 
 Exluded from this analysis are managed, prescribed burns, which are set intentionally for forest management purposes such as reducing wildfire fuel and controlling invasive species. 
 
 ## Implementation
-* In Jupyter Notebook, run "chunkLargeCSV.ipnyb" to read large csv file (e.g., 2.3m fire events exceeds excel grid) and save data into 3 smaller csv files for visual inspection. (Optional, as system limitations require.)
-* In Jupyter Notebook, run "2m_fires_bp.ipynb" to clean data and conduct initial exploratory data analysis, and save cleaned data to fire_data_cleaned_bp.csv and .json. 
+* In Jupyter Notebook, run "chunkLargeCSV.ipnyb" to read large NWCG csv file (e.g., 2.3m fire events exceeds excel grid) and save data into 3 smaller csv files for visual inspection. (Optional, as system limitations require.)
+* In Jupyter Notebook, run "2m_fires_bp.ipynb" to read and concatenate 3 small csv files (one could also start with the original NWCG file), clean data, conduct initial exploratory data analysis, and save cleaned data to fire_data_cleaned_bp.csv and .json. 
 
 ## Data
 * National Interagency Fire Occurrence Sixth Edition 1992-2020 (Feature Layer), https://catalog.data.gov/dataset/national-interagency-fire-occurrence-sixth-edition-1992-2020-feature-layer
